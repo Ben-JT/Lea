@@ -49,7 +49,7 @@ x = setInterval(function() {
     hw = w / 2, // half-width
     hh = h / 2,
     opts = {
-      strings: ['FELIZ 9 DE OCT', 'LEA', config.name],
+      strings: ['FELIZ 9 OCT', 'LEA', config.name],
       charSize: 33,
       charSpacing: 28,
       lineHeight: 40,
